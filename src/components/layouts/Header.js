@@ -4,7 +4,7 @@ import { AppBar, Toolbar, Typography } from '@material-ui/core'
 export default props => 
 <AppBar position="static">
 <Toolbar>
-  <Typography variant="headline" color="inherit" gutterBottom>
+  <Typography variant="subtitle1" color="inherit" gutterBottom>
     Exercise Database
   </Typography>
 
